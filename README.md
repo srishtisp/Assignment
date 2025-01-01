@@ -17,22 +17,24 @@ Light blue background with a sheer white box for content.
 All fonts are styled using Times New Roman for a classic look.
 User-friendly error messages for validation.
 
-Technologies Used:
-React Native: For building the mobile app.
-Formik: For handling form state and validation.
-Yup: For email and password validation.
-AsyncStorage: For storing user credentials locally.
-zxcvbn: For password strength evaluation.
+<h1>Technologies Used:</h1>
 
-File Structure:
-App.tsx: Main entry point of the app.
-src/screens/SignUpScreen.tsx: Signup screen implementation.
-src/screens/LoginScreen.tsx: Login screen implementation.
-src/components/PasswordStrengthMeter.tsx: Custom password strength meter component using zxcvbn.
+React Native: For building the mobile app.<br>
+Formik: For handling form state and validation.<br>
+Yup: For email and password validation.<br>
+AsyncStorage: For storing user credentials locally.<br>
+zxcvbn: For password strength evaluation.<br>
 
-Screenshots:
+<h1>File Structure:</h1>
 
-Signup page :
+App.tsx: Main entry point of the app.<br>
+src/screens/SignUpScreen.tsx: Signup screen implementation.<br>
+src/screens/LoginScreen.tsx: Login screen implementation.<br>
+src/components/PasswordStrengthMeter.tsx: Custom password strength meter component using zxcvbn.<br>
+
+<h1>Screenshots:</h1>
+
+<h1>Signup page :</h1>
 
 ![WhatsApp Image 2025-01-02 at 1 08 22 AM](https://github.com/user-attachments/assets/669a4ce1-2128-4cfc-9260-c0ddb5888214)
 
@@ -49,7 +51,8 @@ Signup page :
 
 ![WhatsApp Image 2025-01-02 at 1 08 23 AM (2)](https://github.com/user-attachments/assets/06bd16b3-7584-44f0-8175-f10fb71de0cb)
 
-To run the mobile app:
+<h1>To run the mobile app:</h1>
+
 1) Install the Expo Go mobile app.
 2) Download the zip file of this code and unzip it.
 3) Open the Project subfolder in VSCode.
