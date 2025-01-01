@@ -34,15 +34,18 @@ Screenshots:
 
 Signup page :
 
-https://github.com/user-attachments/assets/21aa0cd5-c64a-436c-a2aa-9dfb38afc6ab
+![WhatsApp Image 2025-01-02 at 1 08 22 AM](https://github.com/user-attachments/assets/669a4ce1-2128-4cfc-9260-c0ddb5888214)
+
 
 ![WhatsApp Image 2025-01-02 at 1 08 22 AM (1)](https://github.com/user-attachments/assets/70ca6499-cae7-4b7d-a2c5-2a86f47c9976)
 
+
 ![WhatsApp Image 2025-01-02 at 1 08 23 AM](https://github.com/user-attachments/assets/b8dfd90b-29d9-4fa3-a2ae-cdfc0fc123f7)
 
-Login page :
+<h1> Login page : </h1>
 
 ![WhatsApp Image 2025-01-02 at 1 08 23 AM (1)](https://github.com/user-attachments/assets/b768d712-ad3c-4407-9491-33048ea93362)
+
 
 ![WhatsApp Image 2025-01-02 at 1 08 23 AM (2)](https://github.com/user-attachments/assets/06bd16b3-7584-44f0-8175-f10fb71de0cb)
 
